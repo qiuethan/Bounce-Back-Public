@@ -1,0 +1,8 @@
+(A) Add Progress
+(A) Train Bouncebot
+(A) Use Langchain for structured outputs
+(B) Implement data processing within app
+(B) Add challenges
+(C) Chore automatic reset
+(C) Add additional activity tracking
+(D) Check that all tokens/security taken care of before publishing

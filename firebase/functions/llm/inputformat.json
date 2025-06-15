@@ -1,0 +1,66 @@
+{
+    "profile": {
+        "name": "Ethan Qiu",
+        "birthday": "2006-06-15",
+    },
+    "journals": [
+        {
+            "text": "I was feeling very sad today. I just felt so alone.",
+            "timestamp": "2025-05-29T12:00:00Z"
+        }
+    ],
+    "moodEntries": [
+        {
+            "mood": "sad",
+            "note": "lonely",
+            "timestamp": "2025-05-29T12:00:00Z"
+        }
+    ],
+    "avoidanceZones": [
+        {
+            "label": "Ex's House"
+        },
+        {
+            "label": "Grandma's House"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Dad",
+            "lastContacted": "2025-05-29T12:00:00Z",
+            "relationship": "Parent",
+            "priorityTag": "High",
+            "supportType": [
+                "Advises",
+                "Encourages Me",
+                "Calms Me Down"
+            ],
+            "interactions": [
+                {
+                    "type": "text",
+                    "timestamp": "2025-05-29T12:00:00Z"
+                },
+                {
+                    "type": "call",
+                    "timestamp": "2025-05-29T12:00:00Z"
+                }
+            ]
+        }
+    ],
+    "chores": [
+        {
+            "name": "Take out trash",
+            "frequency": "week",
+            "lastCompleted": "2025-05-29T12:00:00Z",
+            "isCompleted": true
+        }
+    ],
+    "activities": [
+        {
+            "duration": 30,
+            "startTime": "2025-05-29T12:00:00Z",
+            "endTime": "2025-05-29T12:30:00Z",
+            "type": "running"
+        }
+    ]
+}
